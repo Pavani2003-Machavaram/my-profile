@@ -4,6 +4,7 @@
 
 | Profile | Details |
 |-----------|-------|
+|Name| Pavani Machavaram|
 | Age | 22 |
 | Education | MCA |
 | Skills | SQL, Python, Excel |
