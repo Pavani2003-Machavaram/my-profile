@@ -1,6 +1,6 @@
-# Dexter
-
 ## Profile Details
+# Hi I'M Pavani Machavaram
+I am passionate about learning new technologies and building practical projects that help me strengthen my problem-solving and technical skills. Currently, I am developing my knowledge in Python, SQL, Excel, and Power BI through hands-on learning and real-world projects.
 
 | Profile | Details |
 |-----------|-------|
