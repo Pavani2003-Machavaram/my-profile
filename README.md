@@ -23,6 +23,8 @@ I am passionate about learning new technologies and building practical projects 
 
 <img width="533" height="298" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8d1f793b-f99b-4f49-a8ab-1fd183152fa4" />
 
+-[![Transaction Analysis](dashboard.png)](https://github.com/Pavani2003-Machavaram/Transaction-Analysis-Power-Bi-Project/blob/main/Transaction%20Analysis%20Dashboard.png)
+
 <img width="602" height="334" alt="Transaction Analysis Dashboard" src="https://github.com/user-attachments/assets/f2a1bc1a-b6f2-4675-8e29-b123d94cf8c4" />
 
 
