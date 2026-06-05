@@ -7,7 +7,7 @@ I am passionate about learning new technologies and building practical projects 
 |Name| Pavani Machavaram|
 | Age | 22 |
 | Education | MCA |
-| Skills | SQL, Python, Excel |
+| Skills | SQL, Python, Excel, Power Bi |
 | Languages | English, Telugu |
 
 ## Projects
