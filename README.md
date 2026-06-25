@@ -15,6 +15,7 @@ I am passionate about learning new technologies and building practical projects 
 
 - [Vehicle Theft Analysis Dashboard](https://github.com/Pavani2003-Machavaram/Vehicle-Theft-Analysis-Dashboard)
 - [Transaction Analysis Dashboard](https://github.com/Pavani2003-Machavaram/Transaction-Analysis-Power-Bi-Project)
+- [FinPay Transaction & Risk Analysis Dashboard](https://github.com/Pavani2003-Machavaram/FinPay-Transaction-Risk-Analysis-Dashboard)
 
   
 ## Dashboard Preview
